@@ -8,7 +8,7 @@ export default defineConfig({
   name: 'default',
   title: 'digital-eagle-cms',
 
-  projectId: 'xgeh1qfn',
+  projectId: 'cag26atv',
   dataset: 'production',
 
   plugins: [
