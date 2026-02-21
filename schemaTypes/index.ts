@@ -18,11 +18,8 @@ import socialLink from './socialLink'
 import footer from './footer'
 import companyInfo from './companyInfo'
 import homeGrowNetworkSection from './sections/homeGrowNetworkSection'
-import teamPage from './pages/teamPage'
 import pageTopSection from './pageTopSection'
-import servicesPage from './pages/servicesPage'
 import serviceItem from './serviceItem'
-import workflowPage from './pages/workflowPage'
 import aboutSectionItem from './aboutSectionItem'
 import techStackCategory from './techStackCategory'
 import homeTechStackSection from './sections/homeTechStackSection'
@@ -40,9 +37,6 @@ export const schemaTypes = [
   homePage,
   footer,
   companyInfo,
-  teamPage,
-  servicesPage,
-  workflowPage,
 
   // Other types
   homePageHeroSection,
